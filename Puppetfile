@@ -17,6 +17,6 @@ forge "https://forgeapi.puppetlabs.com"
    :git => 'https://github.com/puppetlabs/puppetlabs-apt.git',
    :ref => '1.4.x'
 # A module from a git branch/tag
- mod 'puppetlabs-apt',
+ mod 'testrepo',
    :git => 'https://github.com/Rusheeta/testrepo.git',
    :branch => 'master'
